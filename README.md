@@ -6,4 +6,5 @@ This repo is for Optimization applications.
 - Product Line Optimization
 - Portfolio Optimization
 
-# Non-Linear Programming 
+# Logit Optimizations
+- B2B Discount Optimization
